@@ -3,4 +3,4 @@
 let m= document.getElementById("main");
 m.remove();
 
-let newVariable = document.getElementById("victory");
+let newHeader = document.getElementById("victory");
