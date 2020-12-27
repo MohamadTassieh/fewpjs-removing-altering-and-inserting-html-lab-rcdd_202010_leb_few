@@ -4,4 +4,5 @@ let m= document.getElementById("main");
 m.remove();
 
 let element = document.createElement('h1#victory');
+document.body.appendChild(element);
 let newHeader = document.getElementById("victory");
